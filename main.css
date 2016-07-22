@@ -1,0 +1,26 @@
+/* Inserta tu código aqui */
+.master{
+	margin: 0 auto;
+	width: 60%;	
+}
+.separador{
+	border: 2px solid black;
+	width: 70px;
+}
+.name{
+	position: relative;
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin: 15px;
+	top: 20px;
+
+}
+.name2{
+	position: absolute;
+	color: white;
+	width: 60px;
+	right: 0px;
+	bottom: 0px;
+	padding-bottom: 0px;
+}
