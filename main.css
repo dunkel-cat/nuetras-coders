@@ -14,6 +14,8 @@
 	display: inline-block;
 	margin: 15px;
 	top: 20px;
+	-webkit-filter: brightness(60%);    
+    filter: brightness(50%);
 
 }
 .name2{
